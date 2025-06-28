@@ -6,7 +6,6 @@ public class Main {
         Racing racing = new Racing(3);
 
         String nameCar;
-        String speedCar;
         int speed;
         for (int i = 1; i <= 3; i++) {
 
